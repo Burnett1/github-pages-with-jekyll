@@ -1,4 +1,7 @@
 theme: minima
-title: test-title
+---
+title: "test"
+date: 2018-06-05
+---
 author: Kyle
 description: git labs
